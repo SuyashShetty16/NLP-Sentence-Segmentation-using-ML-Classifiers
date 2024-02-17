@@ -1,6 +1,6 @@
 # NLP-identification-of-Male-Female-names-using-Machine-Learning-Classifiers
 
-Write a code in Python to achieve the following tasks:
+Write a code to achieve the following tasks:
 
 1. Determining if a word is a end-of-sentence or not using (either of these techniques):
 a. Decision Trees,
