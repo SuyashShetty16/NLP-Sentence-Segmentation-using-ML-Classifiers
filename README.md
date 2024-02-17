@@ -1,4 +1,4 @@
-# NLP-identification-of-Male-Female-names-using-Machine-Learning-Classifiers
+# NLP Sentence Segmentation using ML Classifiers
 
 Write a code to achieve the following tasks:
 
