@@ -6,8 +6,7 @@ Write a code to achieve the following tasks:
 a. Decision Trees,
 b. Support Vector Machines,
 c. Logistic Regressions,
-d. Neural Networks,
-e. Any other ML technique of your choice.
+d. Neural Networks
 
 2. Consider all possibilities of finding end-of-sentence (for example as follows):
 a. !, ? are relatively unambiguous
